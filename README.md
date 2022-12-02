@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @abschulze (Brian Schulze)
-- 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning R
+- 👀 Network Engineer
+- Major in Mathematics
+- Minor in Data Science
+- 🌱 
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me aschulze1@live.maryville.edu OR bschulze@tiestech.net
 
